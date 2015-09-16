@@ -1,5 +1,5 @@
 
 [submodule "subrepo0"]
-path = subrepo0
-branch = master
-
+  path = subrepo0
+  url = https://github.com/ryanai3/example-sub-repo.git
+  branch = master
