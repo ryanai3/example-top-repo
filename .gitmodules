@@ -1,0 +1,5 @@
+
+[submodule "subrepo0"]
+path = subrepo0
+branch = master
+
